@@ -1,0 +1,12 @@
+{
+  "name": "cxp106.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cxp106/cxp106.github.io.git",
+  "author": "alex <1069076193@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "course:dev": "vuepress dev",
+    "course:build": "vuepress build"
+  }
+}
